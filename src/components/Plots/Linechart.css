@@ -1,0 +1,8 @@
+.line-chart{
+    display: flex;
+        padding: 20px;
+        margin: 20px;
+        justify-content: space-around;
+        align-items: center;
+        height: 60%;
+}
